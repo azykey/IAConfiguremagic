@@ -6,9 +6,6 @@ ISSO ERA UMA COISA QUE TAVA MECHENDO
 
 
 
-[Uploading IAConfiguremagic.pdf…]()
-
-
 Criticas ao "sistema" podem variar amplamente dependendo do contexto específico, seja ele político, econômico, social ou outro. No entanto, algumas críticas comuns que são frequentemente levantadas:
 
 Político:
