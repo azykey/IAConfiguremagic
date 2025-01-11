@@ -1,8 +1,38 @@
 # IAConfiguremagic
 VAZIOROXO
 TEM O PDF PARA OS CALCULOS.. ... 
+ISSO ERA UMA COISA QUE TAVA MECHENDO 
+"Na busca incessante por inovação, muitas vezes esquecemos que a verdadeira evolução não está apenas no que criamos, mas em como escolhemos usar o poder que adquirimos."
+
+
 
 [Uploading IAConfiguremagic.pdf…]()
+
+
+Criticas ao "sistema" podem variar amplamente dependendo do contexto específico, seja ele político, econômico, social ou outro. No entanto, algumas críticas comuns que são frequentemente levantadas:
+
+Político:
+Corrupção: Há uma percepção generalizada de que os sistemas políticos são frequentemente corrompidos, onde os interesses pessoais ou de grupos específicos superam o bem comum. Isso pode manifestar-se em lobbyismo excessivo, corrupção direta, ou políticas que favorecem a elite em detrimento da maioria.
+Desconexão com o Povo: Muitos argumentam que políticos e legisladores estão desalinhados com as necessidades e vontades da população, frequentemente devido à influência de grandes corporações ou grupos de interesse especial.
+
+Econômico:
+Desigualdade de Renda: Críticos destacam como o sistema econômico atual pode ampliar a desigualdade, concentrando riqueza nas mãos de poucos enquanto muitos lutam com a pobreza. O capitalismo neoliberal, por exemplo, é frequentemente criticado por favorecer a acumulação de capital sobre o bem-estar social.
+Sustentabilidade: Existe uma crítica significativa sobre o modo como o sistema econômico global não leva em conta o impacto ambiental, promovendo um crescimento insustentável que ameaça o planeta.
+
+Social:
+Injustiça Social: O sistema é frequentemente visto como perpetuando injustiças raciais, de gênero, e outras formas de discriminação através de leis, políticas públicas, ou simplesmente por não fazer o suficiente para corrigir desequilíbrios históricos.
+Acesso a Serviços: A crítica abrange a falta de acesso equitativo a educação, saúde, moradia, e segurança, onde o sistema falha em garantir que esses direitos básicos sejam universais.
+
+Cultural:
+Homogeneização da Cultura: Há uma preocupação com a globalização e a hegemonia cultural que podem suprimir ou diminuir a diversidade cultural, promovendo uma cultura dominante às custas de outras.
+Manipulação da Mídia: O controle ou influência sobre a mídia pode ser visto como uma forma de manipulação que molda a opinião pública para apoiar o status quo.
+
+Tecnológico:
+Privacidade e Vigilância: Com o avanço da tecnologia, há críticas sobre como o sistema permite ou facilita a invasão de privacidade e a vigilância em massa, seja por governos ou corporações.
+Desemprego Tecnológico: A automação e a inteligência artificial levantam preocupações sobre a perda de empregos sem uma rede de segurança social adequada.
+
+Essas críticas não são exaustivas, e cada uma delas pode ter inúmeras nuances e variar bastante dependendo do país, cultura ou grupo social em questão. Além disso, é importante reconhecer que muitos desses problemas são interligados, e as soluções propostas podem ser tão variadas quanto as críticas em si.
+
 
 **Documentação Matemática Completa de AGI**  
 **Adilson Oliveira**
